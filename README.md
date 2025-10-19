@@ -1,31 +1,8 @@
-<div align="center">
-  <img height="150" src="https://gifdb.com/images/high/zoro-three-sword-style-bbiwotesohm2xpnq.gif"  />
-</div>
-
-###
-
-<div align="center">
-</div>
-
-###
-
 <h3 align="left">Hi, I'm Jayanth Cherukuri 👋<br>🔐 Cybersecurity Enthusiast & AI Researcher<br>💡 Passionate about Cybersecurity, Data Research, and Artificial Intelligence<br>🌍 Exploring the convergence of intelligent systems and digital defense.</h3>
 
 ###
 
 <h3 align="left">👩‍💻  About Me <br>🕵️‍♂️ Cybersecurity professional with a strong foundation in vulnerability assessment and ethical hacking.<br>🤖 Researching the integration of AI for threat detection and anomaly prediction.<br>🧑‍💻 Experienced with Linux environments, Flask/FastAPI, cloud automation, and data-driven intelligence.<br>🔭 Focused on creating secure, scalable architectures using AWS & MongoDB.</h3>
-
-###
-
-<h3 align="left">🌱 Current Research<br>Applying Machine Learning to Cyber Threat Intelligence (CTI).</h3>
-
-###
-
-<h3 align="left">📜 Publications<br>Comparison of different supervised learning models performance using flood dataset<br>https://ieeexplore.ieee.org/document/11074709</h3>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -60,6 +37,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
 </div>
+
+###
+
+<h3 align="left">🌱 Current Research<br>Applying Machine Learning to Cyber Threat Intelligence (CTI).</h3>
+
+###
+
+<h3 align="left">📜 Publications<br>Comparison of different supervised learning models performance using flood dataset<br>https://ieeexplore.ieee.org/document/11074709</h3>
+
+###
+
+<h3 align="left">📫Connect With Me<br>jayanthcherukuri21@gmail.com</h3>
 
 ###
 
